@@ -1,0 +1,3 @@
+disable 'usertable'
+drop 'usertable'
+exit
